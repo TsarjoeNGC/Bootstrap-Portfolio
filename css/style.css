@@ -6,7 +6,7 @@
   background-color: rgb(36, 56, 94);
 } */
 body{
-  background-color: #f7f4e1;;
+  background-color: #f2f7e1;;
 }
 .logo{
   font-size: 40px;
@@ -24,6 +24,16 @@ body{
 .hero_title {
   font-size: 4rem;
 }
+.card{
+  background-color: #f7f4e1;;
+  background-size: contain;
+  color: black;
+  margin-bottom: 100px;
+}
+.card p{
+  font-size: 20px;
+
+}
 .hero_desc {
   font-size: 2rem;
 }
@@ -31,9 +41,6 @@ body{
   color: white;
 }
 
-#about{
-  color: white;
-}
 
 /* spacing on all sections */
 /* #about, #services, #portfolio, #contact {
@@ -66,13 +73,8 @@ body{
   border: 1px solid #008000;
 }
 
-#services{
-  overflow: hidden;
-  color: white;
-}
 /* footer styling */
 #footer {
-  background-color: #222252;
   text-align: center;
 }
 /* social media icons styling */
@@ -85,5 +87,7 @@ body{
   color: #0788eb;
 }
 .fab {
-  color: #ffffff;
+  color: #000000;
+  box-shadow:  2px 5px 10px;
+
 }
