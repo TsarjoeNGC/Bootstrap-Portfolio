@@ -24,11 +24,6 @@ body{
 .hero_title {
   font-size: 4rem;
 }
-.card{
-  color: white;
-  background-image: url(../images/02-portfolio-2.jpg);
-  background-size: contain;
-}
 .hero_desc {
   font-size: 2rem;
 }
