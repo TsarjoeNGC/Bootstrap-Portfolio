@@ -2,11 +2,11 @@
 .navbarScroll.navbarDark {
   background-color: rgb(219, 24, 24);
 }
-body{
-  background-image: url(../images/02-portfolio-4.jpg);
-}
-nav{
+/* nav{
   background-color: rgb(36, 56, 94);
+} */
+body{
+  background-color: #f7f4e1;;
 }
 .logo{
   font-size: 40px;
